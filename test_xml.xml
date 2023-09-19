@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<EmployeeData>
+
+    <Employee student_type="Part-time">
+
+        <Name>Tom</Name>
+
+    </Employee>
+
+    <Employee student_type="Full-time">
+
+        <Name>Drake</Name>
+
+    </Employee>
+
+</EmployeeData>

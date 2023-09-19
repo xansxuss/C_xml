@@ -1,0 +1,3 @@
+/home/xanxus/workspaces/C_test/C++/C_xml/bulid/CMakeFiles/rebuild_cache.dir
+/home/xanxus/workspaces/C_test/C++/C_xml/bulid/CMakeFiles/edit_cache.dir
+/home/xanxus/workspaces/C_test/C++/C_xml/bulid/CMakeFiles/main.dir

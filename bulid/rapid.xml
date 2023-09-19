@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+	<!--这是一个注释节点-->
+	<students>
+		<student>11</student>
+		<student>22</student>
+		<student course="" score="98">33</student>
+		<student/>
+		<![CDATA[55]]>
+		<?student 66?>
+		<!DOCTYPE 77>
+	</students>
+</root>
+
